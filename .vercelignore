@@ -1,0 +1,11 @@
+backend/
+facial_stress_monitoring.ipynb
+requirements.txt
+.venv/
+venv/
+env/
+Lib/
+Scripts/
+bin/
+include/
+pyvenv.cfg

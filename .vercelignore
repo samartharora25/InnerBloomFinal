@@ -1,6 +1,6 @@
+# Only ignore things that are NOT part of the frontend build
 backend/
 facial_stress_monitoring.ipynb
-requirements.txt
 .venv/
 venv/
 env/
@@ -9,3 +9,7 @@ Scripts/
 bin/
 include/
 pyvenv.cfg
+node_modules/
+dist/
+.env
+.env.local
